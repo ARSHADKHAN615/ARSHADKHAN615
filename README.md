@@ -1,5 +1,5 @@
-<h1 align="center"><h2> नमस्ते (Namaste)🙏</h2>, I'm Sachin Vilas Nagane 👋 </h1>
-<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<h1 align="center"><b> नमस्ते (Namaste)🙏</b>, I'm Arshad Ali Khan 👋 </h1>
+<h3 align="center">🚀 Backend Developer | LAMP Stack | Front-end Developer  🚀</h3>
 <div>
 
 Here are some ideas to get you started:
