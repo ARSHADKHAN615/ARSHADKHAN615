@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**ARSHADKHAN615/ARSHADKHAN615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there! I'm Sachin Vilas Nagane 👋 </h1>
+<h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
+<div>
 
 Here are some ideas to get you started:
 
