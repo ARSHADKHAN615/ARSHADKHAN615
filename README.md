@@ -1,4 +1,4 @@
-<h1 align="center">### नमस्ते (Namaste)🙏, I'm Sachin Vilas Nagane 👋 </h1>
+<h1 align="center"><h2> नमस्ते (Namaste)🙏</h2>, I'm Sachin Vilas Nagane 👋 </h1>
 <h3 align="center">🚀 Backend Developer | MERN Stack | Open Source ♥ | Devops | Competitive Programmer  🚀</h3>
 <div>
 
