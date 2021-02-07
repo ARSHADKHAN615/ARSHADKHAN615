@@ -28,8 +28,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-##- 🖥 &nbsp;
-## ![Adobe-XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-XD)
   
   <br/>
 
