@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and Web Development and quick hacks.
-- 🎓 &nbsp; Studying Undergraduate in Ahmedabad Arts and Commerce College
+- 🎓 &nbsp; Studying Undergraduate in Ahmedabad Arts and Commerce College.
 - 💼 &nbsp; Working as a Freshers.
 - 🌱 &nbsp; Learning more about UI/UX Design and Web Development.
 - ✍️ &nbsp; Pursuing WordPress and Blog Writing as hobbies/side hustles.
