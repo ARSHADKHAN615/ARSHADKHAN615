@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and Web Development and quick hacks.
-- 🎓 &nbsp; Studying B.COM and Programming at Ahmedabad science and Commerce College.
-- 💼 &nbsp; Working as a Freelance Self-employees.
+- 🎓 &nbsp; Studying Undergraduate in Ahmedabad Arts and Commerce College
+- 💼 &nbsp; Working as a Freshers.
 - 🌱 &nbsp; Learning more about UI/UX Design and Web Development.
 - ✍️ &nbsp; Pursuing WordPress and Blog Writing as hobbies/side hustles.
 
@@ -28,8 +28,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=atom)
-- 🖥 &nbsp;
-  ![Adobe-XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-XD)
+##- 🖥 &nbsp;
+## ![Adobe-XD](https://img.shields.io/badge/-XD-333333?style=flat&logo=adobe-XD)
   
   <br/>
 
