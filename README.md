@@ -19,7 +19,9 @@
   ![React Js](https://img.shields.io/badge/-react-black?style=flat-square&logo=react)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-- 🛢 &nbsp;
+  
+  
+- 🛢 &nbsp;&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
