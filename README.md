@@ -22,6 +22,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
