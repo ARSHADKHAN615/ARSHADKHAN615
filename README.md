@@ -1,14 +1,13 @@
 <h1 align="center"><b> नमस्ते (Namaste)🙏</b>, I'm Arshad Ali Khan 👋 </h1>
-<h3 align="center">🚀 Backend Developer | LAMP Stack | Front-end Developer  🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | LAMP Stack | MERN Stack | TALL Stack  🚀</h3>
 <div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and Web Development and quick hacks.
-- 🎓 &nbsp; Studying Undergraduate in Ahmedabad Arts and Commerce College.
-- 💼 &nbsp; Working as a Freshers.
-- 🌱 &nbsp; Learning more about UI/UX Design and Web Development.
-- ✍️ &nbsp; Pursuing WordPress and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studying MCA in Gujarat Technological University.
+- 🌱 &nbsp; Learning more about Software Development.
+- ✍️ &nbsp; Love making random stuffs😅.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -26,7 +25,8 @@
   ![laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
-  
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=nodejs)
+  ![Expressjs](https://img.shields.io/badge/-Expressjs-333333?style=flat&logo=Expressjs)
  
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -40,5 +40,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Github Page Badge](https://img.shields.io/badge/-Github_Page-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ARSHADKHAN615)](https://github.com/ARSHADKHAN615)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshad-ali-380563200/)](https://www.linkedin.com/in/arshad-ali-380563200/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arshad-ali-khan/)](https://www.linkedin.com/in/arshad-ali-khan/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-c039a6?style=flat-square&labelColor=&logo=twitter&logoColor=white&link=https://twitter.com/ArShaDk68351429)](https://twitter.com/ArShaDk68351429)
